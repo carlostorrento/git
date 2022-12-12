@@ -29,7 +29,6 @@ if(isset($_SESSION['usuario'])!="carlos"){
     <a href="portafolio.php">Portafolio</a>
     <a href="cerrar.php">Cerrar</a>
     <a href="#">Testing</a>
-
-   
+    <a href="#">Extras</a>
 </body>
 </html>
